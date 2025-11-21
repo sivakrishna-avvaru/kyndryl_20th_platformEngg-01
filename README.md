@@ -8,3 +8,13 @@
 •	Why Backstage is the “frontend” of a modern platform
 •	IDP Reference Architecture
 ```
+
+```
+•	Platform Success Metrics (DORA, MTTR, Deployment Frequency)
+•	MVP lifecycle: Discover → Design → Build → Validate
+Labs
+•	Lab 1 – Set up Backstage Developer Portal (Local/Cloud)
+Install Backstage as the face of the IDP. Configure for local/cloud access.
+•	Lab 2 – Explore Backstage UI
+Explore Service Catalog, TechDocs, and plugin architecture
+```
