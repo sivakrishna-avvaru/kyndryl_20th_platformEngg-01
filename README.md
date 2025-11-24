@@ -18,3 +18,14 @@ Install Backstage as the face of the IDP. Configure for local/cloud access.
 •	Lab 2 – Explore Backstage UI
 Explore Service Catalog, TechDocs, and plugin architecture
 ```
+
+```
+•	Plugin Architecture & Extensibility
+•	OAuth-based authentication flows
+Labs
+•	Lab 3 – Add GitHub Pull Requests Plugin
+Integrate PR plugin and view repo PR metrics.
+•	Lab 4 – Register a Sample Service
+Add service with catalog-info.yaml into Backstage Catalog.
+
+```
