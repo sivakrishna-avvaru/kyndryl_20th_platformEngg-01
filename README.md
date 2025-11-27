@@ -41,3 +41,21 @@ Labs
 Scaffold a microservice using standard template and register in Catalog.
 
 ```
+
+
+```
+•	AI-Assisted Template Scaffolding and Recommendations
+•	ChatOps provisioning (Slack bot + AI-based suggestions)
+
+•	Lab 7 – Containerize Service & Run in Docker
+Package and run the microservice locally.
+Integrate with Backstage Catalog for discoverability.
+
+•	Infrastructure as Code (IaC): Terraform Modules
+•	CI/CD as Self-Service Offerings within an IDP
+Labs
+•	Lab 8 – Terraform Secured Infra Module (VPC, S3 with encryption)
+Provision secure infra.
+🔗 Integrate provisioned infra as Resource entities in Backstage Catalog.
+
+```
