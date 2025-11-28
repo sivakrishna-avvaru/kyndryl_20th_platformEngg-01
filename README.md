@@ -59,3 +59,14 @@ Provision secure infra.
 🔗 Integrate provisioned infra as Resource entities in Backstage Catalog.
 
 ```
+
+
+```
+•	Auto-triggered tests, rollbacks, and scanning (SBOM, SAST/DAST, CVE)
+•	Secure Secrets Management in Pipelines
+Labs
+•	Lab 9 – Build Reusable CI/CD Pipeline with GitHub Actions (SBOM + SAST)
+Create a reusable pipeline and expose pipeline status in Backstage.
+•	Lab 9.1 – Secure Secrets Management in Pipelines & Backstage Catalog
+Store secrets securely in GitHub Actions and annotate Catalog for visibility.
+```
